@@ -1,0 +1,14 @@
+.main-offer{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.content-offer h4{
+    font-size: 19px;
+    color: #6A737B;
+}
+.content-offer ul li , .content-offer p{
+    font-size: 14px;
+    color: #444444;
+}
